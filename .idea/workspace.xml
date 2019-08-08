@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74e161e6-4a91-4825-990c-70cc59982996" name="Default Changelist" comment="moved files">
-      <change afterPath="$PROJECT_DIR$/tools/apiServer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/createMockDb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mockData.js" afterDir="false" />
+    <list default="true" id="74e161e6-4a91-4825-990c-70cc59982996" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/tools/db.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +23,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1P5ORjOb05vEX8tbCnZSl4uW4DJ" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -39,6 +40,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\mwilman\IdeaProjects\open-cookbook\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Users\mwilman\IdeaProjects\open-cookbook\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -88,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565243432953</updated>
       <workItem from="1565243437558" duration="1298000" />
-      <workItem from="1565244759497" duration="7760000" />
+      <workItem from="1565244759497" duration="8389000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project">
       <created>1565249962247</created>
@@ -104,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565250311840</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="compilerfix">
+      <created>1565252689172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565252689172</updated>
+    </task>
+    <task id="LOCAL-00004" summary="compilerfix">
+      <created>1565252754201</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565252754201</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial project" />
     <MESSAGE value="moved files" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved files" />
+    <MESSAGE value="compilerfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="compilerfix" />
   </component>
 </project>
