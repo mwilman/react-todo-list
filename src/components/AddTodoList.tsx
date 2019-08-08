@@ -1,6 +1,6 @@
 import * as React from "react";
-import {InputField} from "./Inputfield";
-import {Button} from "./Button";
+import {InputField} from "./form-controls/Inputfield";
+import {Button} from "./form-controls/Button";
 
 type AddTodoListProps = {
     handleSubmit: (item: string) => void;
