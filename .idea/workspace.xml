@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74e161e6-4a91-4825-990c-70cc59982996" name="Default Changelist" comment="">
+    <list default="true" id="74e161e6-4a91-4825-990c-70cc59982996" name="Default Changelist" comment="moved files">
+      <change afterPath="$PROJECT_DIR$/tools/apiServer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/createMockDb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/mockData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddTodoList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddTodoList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-controls/Button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inputfield.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-controls/Inputfield.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TodoList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +43,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mwilman\IdeaProjects\open-cookbook\src" />
+      <recent name="C:\Users\mwilman\IdeaProjects\open-cookbook\tools" />
+      <recent name="C:\Users\mwilman\IdeaProjects\open-cookbook" />
       <recent name="C:\Users\mwilman\IdeaProjects\open-cookbook\src\components\form-controls" />
       <recent name="C:\Users\mwilman\IdeaProjects\open-cookbook\src\components" />
     </key>
@@ -83,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565243432953</updated>
       <workItem from="1565243437558" duration="1298000" />
-      <workItem from="1565244759497" duration="5525000" />
+      <workItem from="1565244759497" duration="7760000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project">
       <created>1565249962247</created>
@@ -92,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565249962247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="moved files">
+      <created>1565250311840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565250311840</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial project" />
+    <MESSAGE value="moved files" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved files" />
   </component>
 </project>
