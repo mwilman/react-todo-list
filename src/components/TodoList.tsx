@@ -1,6 +1,11 @@
 import * as React from "react";
 import {AddTodoList} from "./AddTodoList";
 
+interface TodoItem {
+    id: number;
+    title: string;
+}
+
 export const TodoList: React.FC = () => {
     const [items, setItems] = React.useState([""]);
 
